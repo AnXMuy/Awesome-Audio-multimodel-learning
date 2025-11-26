@@ -1,5 +1,7 @@
 # Awesome-Audio-multimodel-learning
-A collection of Audio multimodel-learning papers, projects and repos
+A collection of Audio multimodel-learning papers, projects and repos. 
+
+If you find any work or resources missing, please send a **pull requests**. Thanks!
 
 ## Audio MLLMs & LLMs
 
