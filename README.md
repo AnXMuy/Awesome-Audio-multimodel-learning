@@ -10,3 +10,5 @@ AHAMask: Reliable Task Specification for Large Audio Language Models without Ins
 ## Audio Representation
 
 MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization - [paper](https://arxiv.org/pdf/2501.01108), [repo](https://github.com/tencent-ailab/MuQ)
+
+ MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training - [paper](https://arxiv.org/pdf/2306.00107), [repo](https://github.com/yizhilll/MERT)
