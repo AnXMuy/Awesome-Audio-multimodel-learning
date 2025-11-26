@@ -5,10 +5,10 @@ If you find any work or resources missing, please send a **pull requests**. Than
 
 ## Audio MLLMs & LLMs
 
-[Arxiv 2025] - AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions - [paper](https://arxiv.org/pdf/2509.01787), [repo](https://github.com/cantabile-kwok/SALMONN-AHAMask)
+**[Arxiv 2025]** - AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions - [paper](https://arxiv.org/pdf/2509.01787), [repo](https://github.com/cantabile-kwok/SALMONN-AHAMask)
 
 ## Audio Representation
 
-[Arxiv 2025] - MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization - [paper](https://arxiv.org/pdf/2501.01108), [repo](https://github.com/tencent-ailab/MuQ)
+**[Arxiv 2025]** - MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization - [paper](https://arxiv.org/pdf/2501.01108), [repo](https://github.com/tencent-ailab/MuQ)
 
-[ICLR 2024] - MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training - [paper](https://arxiv.org/pdf/2306.00107), [repo](https://github.com/yizhilll/MERT)
+**[ICLR 2024]** - MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training - [paper](https://arxiv.org/pdf/2306.00107), [repo](https://github.com/yizhilll/MERT)
