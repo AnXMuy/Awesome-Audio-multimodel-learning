@@ -16,3 +16,5 @@ If you find any work or resources missing, please send a **pull requests**. Than
 **[ICASSP 2024]** - A Foundation Model for Music Informatics - [paper](https://arxiv.org/pdf/2311.03318), [repo](https://github.com/minzwon/musicfm)
 
 **[ICML 2022]** - Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition - [paper](https://arxiv.org/pdf/2202.01855), [repo](https://github.com/lucasnewman/best-rq-pytorch)
+
+**[Arxiv 2021]** - HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units - [paper](https://arxiv.org/pdf/2106.07447), [repo](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert)
