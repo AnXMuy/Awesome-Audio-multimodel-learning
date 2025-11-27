@@ -9,7 +9,6 @@
 - [Audio Interaction Models \& MLLMs](#audio-interaction-models--mllms)
 - [Audio Representation \& Foundation Models](#audio-representation--foundation-models)
 - [Audio Generation Models](#audio-generation-models)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
@@ -55,8 +54,6 @@ For adding new papers, please follow this format:
 - Ensure the paper is relevant to audio multimodal learning
 - Include: Year, Venue, Paper link, Code link (if available)
 - Keep entries sorted by year (newest first)
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
 
 ---
 
