@@ -1,34 +1,81 @@
-# Awesome-Audio-multimodel-learning
-A collection of Audio multimodel-learning papers, projects and repos. 
+# Awesome Audio Multimodal Learning [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-If you find any work or resources missing, please send a **pull requests**. Thanks!
+> A curated list of papers, projects, and resources for Audio Multimodal Learning, including Audio-Language Models, Speech Foundation Models, and Audio Generation.
 
-## Audio Interaction Models & MLLMs
+---
 
-**[Arxiv 2025]** - AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions - [paper](https://arxiv.org/pdf/2509.01787), [repo](https://github.com/cantabile-kwok/SALMONN-AHAMask)
+## 📋 Table of Contents
 
-**[Arxiv 2025]** - FLM-Audio: Natural Monologues Improves Native Full-Duplex Chatbots via Dual Training - [paper](https://arxiv.org/pdf/2509.02521v2), [repo](https://github.com/dofe-ai/flm-audio)
+- [Audio Interaction Models \& MLLMs](#audio-interaction-models--mllms)
+- [Audio Representation \& Foundation Models](#audio-representation--foundation-models)
+- [Audio Generation Models](#audio-generation-models)
+- [Contributing](#contributing)
+- [License](#license)
 
-**[Arxiv 2024]** - Moshi: a speech-text foundation model for real time dialogue - [paper](https://arxiv.org/pdf/2410.00037), [repo](https://github.com/kyutai-labs/moshi)
+---
 
-**[Arxiv 2024]** - LLaMA-Omni: Seamless Speech Interaction with Large Language Models - [paper](https://arxiv.org/pdf/2409.06666), [repo](https://github.com/ictnlp/LLaMA-Omni)
+## 🎙️ Audio Interaction Models & MLLMs
 
-**[Arxiv 2023]** - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities - [paper](https://arxiv.org/abs/2305.11000), [repo](https://github.com/0nutation/SpeechGPT)
+| Year | Venue | Paper | Code | Notes |
+|------|-------|-------|------|-------|
+| 2025 | arXiv | [AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions](https://arxiv.org/pdf/2509.01787) | [GitHub](https://github.com/cantabile-kwok/SALMONN-AHAMask) | - |
+| 2025 | arXiv | [FLM-Audio: Natural Monologues Improves Native Full-Duplex Chatbots via Dual Training](https://arxiv.org/pdf/2509.02521v2) | [GitHub](https://github.com/dofe-ai/flm-audio) | Full-duplex |
+| 2024 | arXiv | [Moshi: A Speech-Text Foundation Model for Real Time Dialogue](https://arxiv.org/pdf/2410.00037) | [GitHub](https://github.com/kyutai-labs/moshi) | Real-time |
+| 2024 | arXiv | [LLaMA-Omni: Seamless Speech Interaction with Large Language Models](https://arxiv.org/pdf/2409.06666) | [GitHub](https://github.com/ictnlp/LLaMA-Omni) | - |
+| 2023 | arXiv | [SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities](https://arxiv.org/abs/2305.11000) | [GitHub](https://github.com/0nutation/SpeechGPT) | Cross-modal |
 
-## Audio Representation & Foundation Model
+---
 
-**[Arxiv 2025]** - MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization - [paper](https://arxiv.org/pdf/2501.01108), [repo](https://github.com/tencent-ailab/MuQ)
+## 🎵 Audio Representation & Foundation Models
 
-**[ICLR 2024]** - MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training - [paper](https://arxiv.org/pdf/2306.00107), [repo](https://github.com/yizhilll/MERT)
+| Year | Venue | Paper | Code | Domain |
+|------|-------|-------|------|--------|
+| 2025 | arXiv | [MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization](https://arxiv.org/pdf/2501.01108) | [GitHub](https://github.com/tencent-ailab/MuQ) | Music |
+| 2024 | ICLR | [MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training](https://arxiv.org/pdf/2306.00107) | [GitHub](https://github.com/yizhilll/MERT) | Music |
+| 2024 | ICASSP | [A Foundation Model for Music Informatics](https://arxiv.org/pdf/2311.03318) | [GitHub](https://github.com/minzwon/musicfm) | Music |
+| 2024 | ICLR | [SpeechTokenizer: Unified Speech Tokenizer For Speech Language Models](https://arxiv.org/pdf/2308.16692) | [GitHub](https://github.com/ZhangXInFD/SpeechTokenizer) | Speech |
+| 2022 | ICML | [Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition](https://arxiv.org/pdf/2202.01855) | [GitHub](https://github.com/lucasnewman/best-rq-pytorch) | Speech |
+| 2021 | arXiv | [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/pdf/2106.07447) | [GitHub](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert) | Speech |
 
-**[ICASSP 2024]** - A Foundation Model for Music Informatics - [paper](https://arxiv.org/pdf/2311.03318), [repo](https://github.com/minzwon/musicfm)
+---
 
-**[ICLR 2024]** - SpeechTokenizer: Unified Speech Tokenizer For Speech Language Models - [paper](https://arxiv.org/pdf/2308.16692), [repo](https://github.com/ZhangXInFD/SpeechTokenizer)
+## 🎼 Audio Generation Models
 
-**[ICML 2022]** - Self-Supervised Learning with Random-Projection Quantizer for Speech Recognition - [paper](https://arxiv.org/pdf/2202.01855), [repo](https://github.com/lucasnewman/best-rq-pytorch)
+| Year | Venue | Paper | Code | Type |
+|------|-------|-------|------|------|
+| 2024 | arXiv | [SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation](https://arxiv.org/pdf/2401.13527) | [GitHub](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt-gen) | TTS |
 
-**[Arxiv 2021]** - HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units - [paper](https://arxiv.org/pdf/2106.07447), [repo](https://github.com/facebookresearch/fairseq/tree/main/examples/hubert)
+---
 
-## Generation Model
+## 🤝 Contributing
 
-**[Arxiv 2024]** - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation - [paper](https://arxiv.org/pdf/2401.13527), [repo](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt-gen)
+Contributions are welcome! Please feel free to submit a Pull Request. 
+
+For adding new papers, please follow this format:
+- Ensure the paper is relevant to audio multimodal learning
+- Include: Year, Venue, Paper link, Code link (if available)
+- Keep entries sorted by year (newest first)
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
+
+---
+
+## 📜 License
+
+[![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
+
+This list is released into the public domain.
+
+---
+
+## 📊 Statistics
+
+![GitHub stars](https://img.shields.io/github/stars/AnXMuy/Awesome-Audio-Multimodal-Learning?style=social)
+![GitHub forks](https://img.shields.io/github/forks/AnXMuy/Awesome-Audio-Multimodal-Learning?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/AnXMuy/Awesome-Audio-Multimodal-Learning?style=social)
+
+Last updated: 2025-11-27
+
+---
+
+**Maintained by [Zixuan Jiang](https://github.com/AnXMuy)**
