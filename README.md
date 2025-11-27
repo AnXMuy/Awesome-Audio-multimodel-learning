@@ -15,8 +15,8 @@
 
 ## 🎙️ Audio Interaction Models & MLLMs
 
-| Year | Venue | Paper | Code | Notes |
-|------|-------|-------|------|-------|
+| Year | Venue | Paper | Code |
+|------|-------|-------|------|
 | 2025 | arXiv | [AHAMask: Reliable Task Specification for Large Audio Language Models without Instructions](https://arxiv.org/pdf/2509.01787) | [GitHub](https://github.com/cantabile-kwok/SALMONN-AHAMask) |
 | 2025 | arXiv | [FLM-Audio: Natural Monologues Improves Native Full-Duplex Chatbots via Dual Training](https://arxiv.org/pdf/2509.02521v2) | [GitHub](https://github.com/dofe-ai/flm-audio) |
 | 2024 | arXiv | [Moshi: A Speech-Text Foundation Model for Real Time Dialogue](https://arxiv.org/pdf/2410.00037) | [GitHub](https://github.com/kyutai-labs/moshi) |
@@ -27,8 +27,8 @@
 
 ## 🎵 Audio Representation & Foundation Models
 
-| Year | Venue | Paper | Code | Domain |
-|------|-------|-------|------|--------|
+| Year | Venue | Paper | Code |
+|------|-------|-------|------|
 | 2025 | arXiv | [MuQ: Self-Supervised Music Representation Learning with Mel Residual Vector Quantization](https://arxiv.org/pdf/2501.01108) | [GitHub](https://github.com/tencent-ailab/MuQ) |
 | 2024 | ICLR | [MERT: Acoustic Music Understanding Model with Large-Scale Self-Supervised Training](https://arxiv.org/pdf/2306.00107) | [GitHub](https://github.com/yizhilll/MERT) |
 | 2024 | ICASSP | [A Foundation Model for Music Informatics](https://arxiv.org/pdf/2311.03318) | [GitHub](https://github.com/minzwon/musicfm) |
@@ -40,8 +40,8 @@
 
 ## 🎼 Audio Generation Models
 
-| Year | Venue | Paper | Code | Type |
-|------|-------|-------|------|------|
+| Year | Venue | Paper | Code |
+|------|-------|-------|------|
 | 2024 | arXiv | [SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation](https://arxiv.org/pdf/2401.13527) | [GitHub](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt-gen) |
 
 ---
@@ -60,9 +60,5 @@ For adding new papers, please follow this format:
 ## 📜 License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0)
-
-This list is released into the public domain.
-
----
 
 **Maintained by [Zixuan Jiang](https://github.com/AnXMuy)**
