@@ -9,6 +9,10 @@ If you find any work or resources missing, please send a **pull requests**. Than
 
 **[Arxiv 2025]** - FLM-Audio: Natural Monologues Improves Native Full-Duplex Chatbots via Dual Training - [paper](https://arxiv.org/pdf/2509.02521v2), [repo](https://github.com/dofe-ai/flm-audio)
 
+**[Arxiv 2024]** - Moshi: a speech-text foundation model for real time dialogue - [paper](https://arxiv.org/pdf/2410.00037), [repo](https://github.com/kyutai-labs/moshi)
+
+**[Arxiv 2024]** - LLaMA-Omni: Seamless Speech Interaction with Large Language Models - [paper](https://arxiv.org/pdf/2409.06666), [repo](https://github.com/ictnlp/LLaMA-Omni)
+
 **[Arxiv 2023]** - SpeechGPT: Empowering Large Language Models with Intrinsic Cross-Modal Conversational Abilities - [paper](https://arxiv.org/abs/2305.11000), [repo](https://github.com/0nutation/SpeechGPT)
 
 ## Audio Representation & Foundation Model
@@ -27,4 +31,4 @@ If you find any work or resources missing, please send a **pull requests**. Than
 
 ## Generation Model
 
-**[Arxiv 2024]** - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation - [paper](https://arxiv.org/pdf/2401.13527)[repo](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt-gen)
+**[Arxiv 2024]** - SpeechGPT-Gen: Scaling Chain-of-Information Speech Generation - [paper](https://arxiv.org/pdf/2401.13527), [repo](https://github.com/0nutation/SpeechGPT/tree/main/speechgpt-gen)
